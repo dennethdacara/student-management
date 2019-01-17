@@ -35,7 +35,7 @@
 - Use basic Laravel resource controllers with default methods – index, create, store etc. (Optional)
 
 ## Tips:
-<p align="left"><img src="uploads/tips.png" height=300px; width=500px;></p>
+<p align="left"><img src="uploads/tips.png" height=600px; width=600px;></p>
 
 ## Pointers:
 - Clearly written code is a big plus
