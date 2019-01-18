@@ -8,10 +8,10 @@
 2. It is not required for you to finish all the parts.
 
 ## Requirements:
-  - Ability to login as admin (basic authentication using the command: "php artisan make:auth")
+  - Ability to login as admin (basic authentication)
 
   Admin Account:
-  - CRUD functionality (Create/ Read / Update / Delete) for: students
+  - Students CRUD functionality (Create/ Read / Update / Delete)
 
   Users:
   - admin (email: admin@gmail.com | password: p@ssw^rd)
@@ -29,14 +29,7 @@
   - users ( id | role_id | name | email | password )
   - students ( id | user_id | student_no | lrn )
 
-## Rules:
-- Use Laravel make:auth as default Bootstrap-based design theme (Required)
-- Use Laravel’s validation function, using Request classes (Optional)
-- Use basic Laravel resource controllers with default methods – index, create, store etc. (Optional)
-
-## Tips:
-<p align="left"><img src="uploads/tips.png" height=400px; width=600px;></p>
 
 ## Pointers:
 - Clearly written code is a big plus
-- Bonus: Ajax Implementation, TDD, Repository Pattern, Us e of other frontend frameworks like semantic-ui, bulma-css, materialize css, etc
+- Bonus: Ajax Implementation, TDD, Use of other frontend frameworks like semantic-ui, bulma-css, materialize css, etc
